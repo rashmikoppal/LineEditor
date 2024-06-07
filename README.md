@@ -8,7 +8,7 @@ lineeditor c:\temp\myfile.txt
 (displays a &gt;&gt; prompt)
 
 
- 
+
 Commands:
 
 list - list each line in n:xxx format, e.g.
